@@ -16,4 +16,4 @@ For example, if I wanted to see all sightings in the city of Benton, I can type 
 ![benton](https://user-images.githubusercontent.com/80054925/120112409-51878800-c13b-11eb-8ec4-5c2f44400568.png)
 
 ## Summary
-This page allows anyone to search through all the data within the data set by using the search bars. However, one major drawback is conforming if these sightings were true. I suggest showing how many people were at the site. Another suggestion is to add another search bar and have it search by length. One final suggestion is to update the page with more recent sightings. 
+This page allows anyone to search through all the data within the data set by using the search bars. However, one major drawback is confirming if these sightings were true. I suggest showing how many people were at each site when it happened. Another suggestion is to keep updating the page with more recent sightings. 
